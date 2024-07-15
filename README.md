@@ -1,4 +1,4 @@
-![logo](https://github.com/gayatrisagade/gayatrisagade/blob/main/Banner.png)
+![logo](https://github.com/gayatrisagade/gayatrisagade/blob/main/Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Gayatri Sagade</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
